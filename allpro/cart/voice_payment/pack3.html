@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" href="images/icon/usaicon.png">
+  <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css"
+    integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous" />
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
+    integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+  <!-- <title>Buy Varified PVA Gmail Accounts in Reasonable Prices | PVA Services</title> -->
+  <title>Make Your Payment</title>
+  <link rel = "icon" href = "/resources/PVA.PNG" type = "image/x-icon">
+  <link rel="stylesheet" href="/css/index.css">
+  <link rel="stylesheet" href="/allpro/cart/cart.css">
+  <script src="/allpro/navbar.js"></script>
+</head>
+
+
+<body>
+  <div class="whole-headerbar">
+    <script>
+      navbarfunc();
+    </script>      
+  </div>
+
+
+
+  <script>
+    // ============================== pop-up image
+    function paymentclose(){
+      document.querySelector('.popup-payment').style.display = 'none';
+    }
+    function paymentdone(){
+      let checkbox = document.getElementById("checkbox");
+        if ( checkbox.checked ) {
+          document.querySelector('.popup-payment').style.display = 'none';
+         } else {
+            alert("Click the Checkbox !");
+         }
+    }
+
+
+  // _____________________________________
+
+  </script>
+
+  <div class="popup-payment">
+
+    <span class="cross" onclick="paymentclose()">&times;</span>
+    <div class="payment-cart">
+      <div class="blank-1">
+      </div>
+      <div class="pay-carts">
+        <div class="pay-cart">
+          <div class="pay-cart-body">
+            <h4>Make Your Payment</h4>
+            <div class="address">
+              <p>Your Total Ammount: <span id="totaldollder"><script></script></span><span> $</span></p>
+              <p>Sub Total Ammount: <span id="subtotaldoller"></span><span> $</span></p>
+              <p>Your Total Package: <span id="totalpack"></span></p>
+              <p>Per Package Package: <span id="perpackdoller"></span><span> $</span></p>
+            </div>
+            <div class="add">
+              <p>Address: <span class="addrs">3NGc5j5CkYapieHHD5RWJ545qUWrBHbbCy</span></p>
+              <p>To Pay: <span id="totalbtc"></span><span> btc</span></p>
+              <form action="">
+                <input id="checkbox" type="checkbox" required><label for="">I have Completed My Payment</label><br>
+                <span onclick="paymentdone()" class="done" style="background-color:crimson;color:#fff;">Done</span>
+              </form>
+              </div>
+            <div class="qrcode">
+              <img src="/images/qrcode/btcqrcode.png" alt="">
+            </div>
+
+          </div>
+        </div>
+      </div>
+      <div class="blank-2">
+      </div>
+    </div>
+<!-- _____________________________ chechbox checked -->
+    <!-- <script>
+      let checkbox = document.getElementById("checkbox");
+      checkbox.addEventListener( "change", () => {
+         if ( checkbox.checked ) {
+            text.innerHTML = " Check box is checked. ";
+            var btn = document.getElementById('final-btn');
+            btn.style.display="flex";
+            alert();
+          } else {
+            text.innerHTML = "";
+            alert("not");
+         }
+      });
+   </script> -->
+        
+</div>
+
+
+  <section id="portfolio2" class="portfolio2">
+    <div class="product-cart">
+      <div class="blank-1">
+      </div>
+      <div class="carts">
+        <div class="cart">
+          <div class="cart-body">
+            <div class="cart-desc">
+              <div class="pro-name">
+                <h2 id="pack-name"><span id="up-price">100</span> Google Voice Accounts</h2>
+
+                <p>Price: <span>$</span><span id="doller" style="font-size: larger;">700</span></p>
+                <div class="line"></div>
+                <ul>
+                  <li>Unique IP Created</li>
+                  <li>Phone Verified</li>
+                  <li>Fresh / Aged Accounts</li>
+                  <li>Recovery Added</li>
+                  <li>Replacement Guranteed</li>
+                </ul>
+              </div>
+                              <!-- _______________________________________________ UPDATE PACKAGE QUANTITY -->
+                              <script>
+                                var qnts =100;
+                                var dlrs=700;
+
+                                var q = document.getElementById("up-price");
+                                var d = document.getElementById("doller");
+                                var perpack =700;
+
+                                var pd = document.getElementById("doller");
+
+                                var qnt = 100;
+                                var dlr = 700; 
+                                
+                                function updatepricefunc(){
+                                  var x = "";
+                                  x = document.getElementById("number").value;
+                                  qnt = parseInt(x)*qnt;
+                                  dlr = parseInt(x)*dlr;
+                                  q.innerHTML = qnt;
+                                  d.innerHTML = dlr;
+                                  qnts = qnt;
+                                  dlrs = dlr;
+
+                                  qnt = 100;
+                                  dlr = 3700;                                                                    
+                                }
+                                </script>
+                                <!-- _______________________________________________ -->
+              <div class="number">
+                <label for="cars">Quantity of Your Package:</label>
+                <br>
+                <input id="number" style="width: 30%;" type="number" id="quantity" class="input-text qty text" step="1" min="1" max="" name="quantity" value="1" title="Qty" size="2" placeholder="" inputmode="numeric" autocomplete="off">
+                <button id="num-btn" onclick="updatepricefunc()">Update</button>
+              </div>
+              <div class="cart-img">
+                <img src="/allpro/cart/imgs/gvoice.png" alt="">
+              </div>
+              <div class="form-div">
+                <div class="form">
+                  <form  action="https://formspree.io/f/xwkjlnag" method="POST">
+                    <label for="">Your Name (Required)</label>
+                    <br>
+                    <input name="Name" type="text" required >
+                    <br>
+                    <label for="">Your Email Address (Required)</label>
+                    <br>
+                    <input type="email" name="email" id="" required>
+                    <br>
+                    <div class="hide">
+                      <label for=""></label>  
+                      <input id="packname" class="hide" name="package-name" type="text">
+                      <input id="tot-pack" class="hide" type="" name="total-package" id="">
+                      <input id="tot-price" class="hide" name="total-price" type="text">
+                    </div>
+                      <label for="">If your Complete Your Payment,</label>
+                      <label for="">Enter Your Transaction ID (Required)</label>
+                      <br>
+                    <input type="text" name="Transaction-id" id="" required>
+                    <br>
+                    <label for="">Your Message (Optional)</label>
+                    <br>
+                    <textarea name="message" cols="60" rows="5" required></textarea>
+                    <button class="final-btn" type="reset">Clear</button>
+                    <button id="final-btn" style="margin-left: 20%;" class="final-btn" type="submit" class="final-btn">Place Order</button> 
+                  </form>
+
+                  <script type="text/javascript">
+
+
+                        document.getElementById("final-btn").addEventListener('click', function () {
+
+
+                        var packname = document.getElementById('packname');
+
+
+                        
+                        var packn = document.getElementById('pack-name');
+                        var totpack = document.getElementById('tot-pack');
+                        var totprice = document.getElementById('tot-price');
+
+                        // packname.value += "";
+                        // totpack.value += "";
+                        // totprice.value += "";
+
+                        // var p1= document.forms["pack-name"].value;
+                        // if (p1 == null || p1 == "") {
+                        //    alert("Please enter> the username. Can’t be blank or empty !!!");
+                        // return false;
+                        // }
+
+                        packname.value += packn.textContent;
+                        totpack.value += qnts;
+                        totprice.value += dlrs;
+
+                    });
+
+                    </script>
+
+
+                </div>
+                <div class="paycard">
+                  <div class="cards">
+                    <h4>Our Payment Methods</h4>
+                    <div class="pay-img">
+                      <!-- <img src="/allpro/cart/imgs/paycard/paypal.PNG" alt="" class="img1"> -->
+                      <img src="/allpro/cart/imgs/paycard/payoneer.PNG" alt="" class="img1">
+                      <img src="/allpro/cart/imgs/paycard/bitcoin.PNG" alt="" class="img2">
+                      <img src="/allpro/cart/imgs/paycard/theter.PNG" alt="" class="img3">
+                    </div>
+                                          <!-- _______________________________________________ payment method -->
+                                          <script>
+                                            // ------------------------
+                                            // var totaldollder = document.getElementById("totaldollder");
+                                            // var subtotaldollder = document.getElementById("subtotaldollder");
+                                            // var totalpack = document.getElementById("totalpack");
+                                            // var perpackdoller = document.getElementById("perpackdoller");
+                                            // var quan = document.getElementById("up-price");
+                                            // var doll = document.getElementById("doller");
+                                            var totalbtcn = document.getElementById("totalbtc");
+                                            function paymentfunc(){
+                                            totaldollder.innerHTML = qnts;
+                                            subtotaldoller.innerHTML = dlrs;
+                                            x = document.getElementById("number").value;
+                                            totalpack.innerHTML = x;
+                                            perpackdoller.innerHTML = perpack;
+                                            //____________________ btc convert
+                                            var perbtc = 0.000046;
+                                            totalbtc = perbtc*dlrs;
+                                            totalbtcn.innerHTML = totalbtc;
+
+                                            document.querySelector('.popup-payment').style.display = 'block';
+                                            }
+                                            </script>
+                                            <!-- _______________________________________________ -->
+                    <div class="pay-optn">
+                      <label for="option">Choose Your Payment Method</label>
+                      <br>
+
+                      <select id="payop" name="payop">
+                        <!-- <option value="payoneer">Payoneer</option> -->
+                        <option value="bitcoin">Bitcoin</option>
+                        <!-- <option value="usdt">USDT(TRC20)</option> -->
+                      </select>
+                      <button onclick="paymentfunc()" class="paynow" id="paynow">Pay Now</button>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              
+            </div>
+          </div>
+        </div>
+
+      </div>
+      <div class="blank-2">
+      </div>
+    </div>
+  </section>
+
+
+  <!-- _______________________________________ footer section -->
+  <div class="footer-func" style="background: rgb(15, 81, 112);">
+    <script>
+      footerfunc();
+    </script>
+  </div>
+</body>
+
+</html>

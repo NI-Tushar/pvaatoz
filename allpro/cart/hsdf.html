@@ -1,0 +1,22 @@
+<html>
+<head>
+   <title>Check whether the Checkbox is checked or not</title>
+</head>
+<body>
+   <h2>Check whether the Checkbox is checked or not using <i> .checked attribute </i></h2>
+   <h4>Check the below checkbox to see the text div</h4>
+   <input type = "checkbox" id = "checkbox">
+   <button onclick="func()">click</button>
+   <div id = "text"> </div>
+   <script>
+      let checkbox = document.getElementById("checkbox");
+      function func() {
+         if ( checkbox.checked ) {
+            text.innerHTML = " Check box is checked. ";
+         } else {
+            text.innerHTML = "";
+         }
+      }
+   </script>
+</body>
+</html>
