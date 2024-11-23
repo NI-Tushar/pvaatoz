@@ -1,0 +1,51 @@
+
+/* ______________________________________________________ FEATURE CARD */
+.feature-heading{
+    background-color: var(--bg-white-color);
+    padding: 1%;
+}
+.feature-heading h2{
+    text-align: center;
+}
+.feature-card{
+    background-color: var(--bg-white-color);
+    margin-top: -8px;
+    display: grid;
+    grid-template-columns:1fr minmax(300px, 1000px) 1fr;
+}
+.feature-card .price-cards{
+    height: auto;
+    display: grid;
+    grid-template-columns:repeat(auto-fit, minmax(5rem, 10rem));
+    gap: 0.0rem;
+    justify-content: center;
+    margin-bottom: 5%;
+  }
+  
+  .feature-card .price-cards .price-card{
+    margin: auto;
+    height: 130px;
+    width: 95%;
+    position: relative;
+    margin-top: 5px;
+    overflow: hidden;
+    box-shadow: 0 2px 20px rgb(24, 24, 24);
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+.feature-card .price-cards .price-card-desc img{
+    height: 70px;
+    width: 70px;
+    margin-top: -10%;
+}
+.feature-card .price-cards .price-card-desc p{
+    color: var(--bg-white-color);
+    font-size: 15px;
+}
+
+/* ______________________________________________________ FEATURE CARD */
+
+
+

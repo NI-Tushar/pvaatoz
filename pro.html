@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="pro.css">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        function flip_func(){
+            var card = document.getElementById("card");
+                card.classList.toggle("is-flipped");
+        }
+    
+    </script>
+    <div class="pay_card">
+        <div class="center_pay">
+            <div class="scene scene--card">
+                <div id="card" onclick="flip_func()" class="card">
+                    <div class="card__face card__face--front">front</div>
+                    <div class="card__face card__face--back">back</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+
+
+

@@ -1,0 +1,195 @@
+:root {
+    --btc-color: rgb(252, 146, 8);
+    --binance-color: rgb(252, 185, 1);
+    --dim-color: rgba(0, 0, 0, 0.521);
+}
+
+/* _____________________________ pay card */
+.pay_card {
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.836);
+    position: fixed;
+    z-index: 1000;
+    padding-top: 5%;
+    display: none;
+}
+
+.pay_card .center_pay {
+    position: relative;
+    max-width: 400px;
+    height: 600px;
+    margin: auto;
+}
+
+.pay_card .center_pay .card .card__face .close_btn {
+    position: absolute;
+    color: rgb(255, 76, 76);
+    font-size: 20px;
+    right: 10px;
+    top: 5px;
+    cursor: pointer;
+}
+
+.pay_card .center_pay .card .card__face .close_btn:hover {
+    color: #52c8f0;
+}
+
+
+
+.card {
+    width: 100%;
+    height: 100%;
+    transition: transform 1s;
+    transform-style: preserve-3d;
+    position: relative;
+}
+
+.card.is-flipped {
+    transform: rotateY(180deg);
+}
+
+.card__face {
+    position: absolute;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    height: 100%;
+    width: 100%;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.card__face button {
+    cursor: pointer;
+}
+
+.card__face--front {
+    background: aliceblue;
+}
+
+.price p {
+    font-weight: 700;
+}
+
+.btc_price p {
+    color: var(--btc-color);
+}
+
+.binance_price p {
+    color: var(--binance-color);
+}
+
+.btc_head h2 {
+    color: var(--btc-color);
+}
+
+.binance_head h2 {
+    color: var(--binance-color);
+}
+
+.card__face--front .btc_main_price h2 {
+    color: var(--btc-color);
+}
+
+.card__face--front .binance_main_price h2 {
+    color: var(--binance-color);
+}
+
+.head .rear, .price .rear, .flip_btn .rear {
+    color: rgba(240, 248, 255, 0.466);
+}
+
+.price span {
+    font-size: 15px;
+    color: var(--dim-color);
+    font-weight: 700;
+}
+
+.head {
+    padding-top: 10px;
+    width: 100%;
+    text-align: center;
+}
+
+.head img {
+    height: 60px;
+    width: 60px;
+}
+
+.head h2, .head p {
+    font-weight: 700;
+    text-align: center;
+}
+
+.head p {
+    color: var(--dim-color);
+}
+
+.card__face--front .qr_code {
+    padding-top: 5%;
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-bottom: 5%;
+    border-bottom: 0.5px solid rgba(0, 0, 0, 0.212);
+}
+
+.card__face--front .qr_code img {
+    width: 100%;
+    height: 250px;
+}
+
+.card__face--front .main_price h2 {
+    padding-top: 15px;
+    text-align: center;
+    font-weight: 700;
+    font-size: 30px;
+    padding-bottom: 20px;
+}
+
+.card__face .flip_btn {
+    width: 100%;
+}
+
+.card__face .flip_btn button {
+    border: none;
+    background: transparent;
+    float: right;
+    font-weight: 700;
+}
+
+.card__face--back {
+    background-color: rgb(44, 1, 73);
+    transform: rotateY(180deg);
+}
+
+.card__face--back .address {
+    padding-top: 50px;
+    padding-bottom: 10px;
+}
+
+.card__face--back .address span {
+    margin-bottom: 10px;
+    color: rgba(240, 248, 255, 0.466);
+}
+
+.card__face--back .address p {
+    color: aliceblue;
+    width: 100%;
+    padding: 8px;
+    font-weight: 600;
+    background-image: linear-gradient(to right, rgb(57, 7, 90), rgb(67, 3, 67));
+    margin-top: 10px;
+    margin-bottom: 20px;
+    border: 5px;
+}
+
+.card__face--back .address p span {
+    background-color: rgb(98, 36, 139);
+    padding: 5px;
+    color: aliceblue;
+    border-radius: 3px;
+    font-size: 12px;
+}
+
+/* _____________________________ pay card */
