@@ -84,14 +84,13 @@
                         <div class="right_line"></div>
                         <div class="price-card-desc">
                         <h3>BRONZE</h3>
-                            <h1 class="price"><span>$</span>375</h1>
-                            <h5>25 GIT-HUB ACCOUNTS</h5>
-                            <p>Unique IP Created</p>
-                            <p>Phone Verified</p>
-                            <p>Fresh/Aged Accounts</p>
-                            <p>Recovery Added</p>
+                            <h1 class="price"><span>$</span>250</h1>
+                            <h5>1 GIT-HUB ACCOUNTS</h5>
+                            <p>500 to 1K followers</p>
+                            <p>Contributions and Stars</p>
+                            <p>Email Verified</p>
                             <p>Replacement Guranteed</p>
-                            <a href="{{url('/github_price/25/ Github Accounts/Bronze/400/375')}}"><button class="btn-2">Buy Now</button></a>
+                            <a href="{{url('/github_price/25/ Github Accounts/Bronze/400/250')}}"><button class="btn-2">Buy Now</button></a>
                         </div>
                     </div>
                 </div>
@@ -104,14 +103,14 @@
                         <div class="right_line"></div>
                         <div class="price-card-desc">
                             <h3>SILVER</h3>
-                            <h1 class="price"><span>$</span>750</h1>
-                            <h5>50 GIT-HUB ACCOUNTS</h5>
-                            <p>Unique IP Created</p>
-                            <p>Phone Verified</p>
-                            <p>Fresh/Aged Accounts</p>
-                            <p>Recovery Added</p>
+                            <h1 class="price"><span>$</span>699</h1>
+                            <h5>2 GIT-HUB ACCOUNTS</h5>
+                            <p>2K to 5K followers</p>
+                            <p>Email Verified</p>
+                            <p>Twitter included</p>
+                            <p>Contributions, Folks and Stars</p>
                             <p>Replacement Guranteed</p>
-                            <a href="{{url('/github_price/50/ Github Accounts/Bronze/800/750')}}"><button class="btn-3">Buy Now</button></a>
+                            <a href="{{url('/github_price/50/ Github Accounts/Bronze/800/699')}}"><button class="btn-3">Buy Now</button></a>
                         </div>
                     </div>
                 </div>
@@ -126,38 +125,49 @@
                         <div class="right_line"></div>
                         <div class="price-card-desc">
                             <h3>GOLD</h3>
-                            <h1 class="price"><span>$</span>1499</h1>
-                            <h5>100 GIT-HUB ACCOUNTS</h5>
-                            <p>Unique IP Created</p>
-                            <p>Phone Verified</p>
-                            <p>Fresh/Aged Accounts</p>
-                            <p>Recovery Added</p>
+                            <h1 class="price"><span>$</span>999</h1>
+                            <h5>3 GIT-HUB ACCOUNTS</h5>
+                            <p>2K to 7K followers</p>
+                            <p>Contributions, Folks and a Lot Stars</p>
+                            <p>Email Verified</p>
+                            <p>Twitter included</p>
                             <p>Replacement Guranteed</p>
-                            <a href="{{url('/github_price/100/ Github Accounts/Bronze/1800/1499')}}"><button class="btn-3">Buy Now</button></a>
+                            <a href="{{url('/github_price/100/ Github Accounts/Bronze/1200/999')}}"><button class="btn-3">Buy Now</button></a>
                         </div>
                     </div>
                 </div>
 
 
-           
-                <!-- <div class="price-card">
+           <style>
+            .small_p .price-card-desc h3{
+              font-size:15px !important;
+            }
+            .small_p p{
+              font-size:15px;
+              margin-bottom:-2px;
+            }
+           </style>
+              <div class="price-card small_p">
                     <div style="background-image: linear-gradient(to bottom, rgb(79, 102, 43), rgb(67, 3, 67));"
                     class="card-body">
                     <div class="left_line"></div>
                     <div class="right_line"></div>
                     <div class="price-card-desc">
                         <h3>PLATINUM</h3>
-                        <h1 class="price"><span>$</span>150</h1>
-                        <h5>200 GIT-HUB ACCOUNTS</h5>
-                        <p>Unique IP Created</p>
-                        <p>Phone Verified</p>
-                        <p>Fresh/Aged Accounts</p>
-                        <p>Recovery Added</p>
-                        <p>Replacement Guranteed</p>
-                        <a href="{{url('/github_price/50/ Github Accounts/Bronze/25/15')}}"><button class="btn-3">Buy Now</button></a>
+                        <h1 class="price"><span>$</span>799</h1>
+                        <h5>1 GIT-HUB ACCOUNTS</h5>
+                        <p>2K to 7K followers</p>
+                        <p>Contributions, Folks and a Lot Stars</p>
+                        <p>Background: Github Developer</p>
+                        <p>Background: Machine Learning</p>
+                        <p>Background: Google Cloud Developer</p>
+                        <p>Email Verified</p>
+                        <p>Twitter included</p>
+                        <a href="{{url('/github_price/50/ Github Accounts/Bronze/1200/799')}}"><button class="btn-3">Buy Now</button></a>
                     </div>
                 </div>
                 </div>
+                    <!-- 
 
                 <div class="price-card">
                     <div style="background-image: linear-gradient(to bottom, rgb(255, 210, 9), rgb(67, 3, 67));"

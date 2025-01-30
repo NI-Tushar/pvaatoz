@@ -85,15 +85,14 @@
                         <div class="right_line"></div>
                         <div class="price-card-desc">
                         <h3>BRONZE</h3>
-                            <h1 class="price"><span>$</span>45</h1>
-                            <h5>1 Linked-in ACCOUNTS</h5>
+                            <h1 class="price"><span>$</span>100</h1>
+                            <h5>2 Linked-in ACCOUNTS</h5>
                             <p>With 100+ Connection</p>
-                            <p>Unique IP Created</p>
+                            <p>US,UK,CANADA IP Created</p>
                             <p>Phone Verified</p>
-                            <p>Fresh/Aged Accounts</p>
-                            <p>Recovery Added</p>
+                            <p>Aged Accounts</p>
                             <p>Replacement Guranteed</p>
-                            <a href="{{url('/linkedin_price/1/ Linked-in Accounts/Bronze/50/45')}}"><button class="btn-2">Buy Now</button></a>
+                            <a href="{{url('/linkedin_price/2/ Linked-in Accounts/Bronze/120/100')}}"><button class="btn-2">Buy Now</button></a>
                         </div>
                     </div>
                 </div>
@@ -106,15 +105,14 @@
                         <div class="right_line"></div>
                         <div class="price-card-desc">
                             <h3>SILVER</h3>
-                            <h1 class="price"><span>$</span>120</h1>
+                            <h1 class="price"><span>$</span>138</h1>
                             <h5>1 Linked-in ACCOUNTS</h5>
                             <p>With 500+ Connection</p>
-                            <p>Unique IP Created</p>
+                            <p>US,UK,CANADA IP Created</p>
                             <p>Phone Verified</p>
-                            <p>Fresh/Aged Accounts</p>
-                            <p>Recovery Added</p>
+                            <p>10 Years Aged Accounts</p>
                             <p>Replacement Guranteed</p>
-                            <a href="{{url('/linkedin_price/1/ Linked-in Accounts/Silver/140/120')}}"><button class="btn-3">Buy Now</button></a>
+                            <a href="{{url('/linkedin_price/1/ Linked-in Accounts/Silver/140/138')}}"><button class="btn-3">Buy Now</button></a>
                         </div>
                     </div>
                 </div>
@@ -131,11 +129,11 @@
                             <h3>GOLD</h3>
                             <h1 class="price"><span>$</span>150</h1>
                             <h5>1 Verified Linked-in ACCOUNTS</h5>
+                            <p>SSN and DL Included</p>
                             <p>With 500 to 2k Connection</p>
-                            <p>Unique IP Created</p>
+                            <p>US,UK,CANADA IP Created</p>
                             <p>Phone Verified</p>
-                            <p>Fresh/Aged Accounts</p>
-                            <p>Recovery Added</p>
+                            <p>More than 10 years Aged Accounts</p>
                             <p>Replacement Guranteed</p>
                             <a href="{{url('/linkedin_price/1/ Linked-in Accounts/Gold/170/150')}}"><button class="btn-3">Buy Now</button></a>
                         </div>

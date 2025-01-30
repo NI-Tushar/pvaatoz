@@ -85,14 +85,15 @@
                         <div class="right_line"></div>
                         <div class="price-card-desc">
                         <h3>BRONZE</h3>
-                            <h1 class="price"><span>$</span>500</h1>
+                            <h1 class="price"><span>$</span>799</h1>
                             <h5>50 TICKET MASTER</h5>
-                            <p>Unique IP Created</p>
+                            <p>USA,UK,CANADA IP Created</p>
                             <p>Phone Verified</p>
-                            <p>Fresh/Aged Accounts</p>
-                            <p>Recovery Added</p>
-                            <p>Replacement Guranteed</p>
-                            <a href="{{url('/ticketmaster_price/50/ Ticketmaster Accounts/Bronze/550/500')}}"><button class="btn-2">Buy Now</button></a>
+                            <p>Aged Accounts</p>
+                            <p>Phone Number Change able</p>
+                            <p>Purchase/Order History Available</p>
+                            <p>Replacement Guaranteed</p>
+                            <a href="{{url('/ticketmaster_price/50/ Ticketmaster Accounts/Bronze/850/799')}}"><button class="btn-2">Buy Now</button></a>
                         </div>
                     </div>
                 </div>
@@ -105,21 +106,19 @@
                         <div class="right_line"></div>
                         <div class="price-card-desc">
                             <h3>SILVER</h3>
-                            <h1 class="price"><span>$</span>750</h1>
+                            <h1 class="price"><span>$</span>1599</h1>
                             <h5>100 TICKET MASTER</h5>
-                            <p>Unique IP Created</p>
+                            <p>USA,UK,CANADA IP Created</p>
                             <p>Phone Verified</p>
-                            <p>Fresh/Aged Accounts</p>
-                            <p>Recovery Added</p>
-                            <p>Replacement Guranteed</p>
-                            <a href="{{url('/ticketmaster_price/100/ Ticketmaster Accounts/Bronze/800/750')}}"><button class="btn-3">Buy Now</button></a>
+                            <p>Aged Accounts</p>
+                            <p>Phone Number Change able</p>
+                            <p>Purchase/Order History Available</p>
+                            <p>Replacement Guaranteed</p>
+                            <a href="{{url('/ticketmaster_price/100/ Ticketmaster Accounts/Bronze/1750/1599')}}"><button class="btn-3">Buy Now</button></a>
                         </div>
                     </div>
                 </div>
 
-                                
-    
-                
                 <div class="price-card">
                     <div style="background-image: linear-gradient(to bottom, rgb(26, 231, 105), rgb(67, 3, 67));"
                     class="card-body">
@@ -127,20 +126,20 @@
                         <div class="right_line"></div>
                         <div class="price-card-desc">
                             <h3>GOLD</h3>
-                            <h1 class="price"><span>$</span>1500</h1>
-                            <h5>150 TICKET MASTER ACCOUNTS</h5>
-                            <p>Unique IP Created</p>
+                            <h1 class="price"><span>$</span>8000</h1>
+                            <h5>500 TICKET MASTER ACCOUNTS</h5>
+                            <p>USA,UK,CANADA IP Created</p>
                             <p>Phone Verified</p>
-                            <p>Fresh/Aged Accounts</p>
-                            <p>Recovery Added</p>
-                            <p>Replacement Guranteed</p>
-                            <a href="{{url('/ticketmaster_price/150/ Ticketmaster Accounts/Bronze/2500/1500')}}"><button class="btn-3">Buy Now</button></a>
+                            <p>Aged Accounts</p>
+                            <p>Phone Number Change able</p>
+                            <p>Purchase/Order History Available</p>
+                            <p>Replacement Guaranteed</p>
+                            <a href="{{url('/ticketmaster_price/500/ Ticketmaster Accounts/Bronze/9500/8000')}}"><button class="btn-3">Buy Now</button></a>
                         </div>
                     </div>
                 </div>
 
-
-<!--            
+       
                 <div class="price-card">
                     <div style="background-image: linear-gradient(to bottom, rgb(79, 102, 43), rgb(67, 3, 67));"
                     class="card-body">
@@ -148,18 +147,21 @@
                     <div class="right_line"></div>
                     <div class="price-card-desc">
                         <h3>PLATINUM</h3>
-                        <h1 class="price"><span>$</span>150</h1>
+                        <h1 class="price"><span>$</span>1999</h1>
                         <h5>200 TICKET MASTER ACCOUNTS</h5>
-                        <p>Unique IP Created</p>
+                        <p>USA,UK,CANADA IP Created</p>
                         <p>Phone Verified</p>
-                        <p>Fresh/Aged Accounts</p>
-                        <p>Recovery Added</p>
-                        <p>Replacement Guranteed</p>
-                        <a href="{{url('/ticketmaster_price/50/ Ticketmaster Accounts/Bronze/25/15')}}"><button class="btn-3">Buy Now</button></a>
+                        <p>Aged Accounts</p>
+                        <p>Phone Number Change able</p>
+                        <p>Without Purchase/Order History</p>
+                        <p>Replacement Guaranteed</p>
+                        <a href="{{url('/ticketmaster_price/200/ Ticketmaster Accounts/Bronze/2200/1999')}}"><button class="btn-3">Buy Now</button></a>
                     </div>
                 </div>
                 </div>
 
+                
+<!--     
                 <div class="price-card">
                     <div style="background-image: linear-gradient(to bottom, rgb(255, 210, 9), rgb(67, 3, 67));"
                     class="card-body">

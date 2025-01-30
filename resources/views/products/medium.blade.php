@@ -144,25 +144,27 @@
 
 
            
-                <!-- <div class="price-card">
+              <div class="price-card">
                     <div style="background-image: linear-gradient(to bottom, rgb(79, 102, 43), rgb(67, 3, 67));"
                     class="card-body">
                     <div class="left_line"></div>
                     <div class="right_line"></div>
                     <div class="price-card-desc">
                         <h3>PLATINUM</h3>
-                        <h1 class="price"><span>$</span>150</h1>
-                        <h5>200 MEDIUM ACCOUNTS</h5>
-                        <p>Unique IP Created</p>
+                        <h1 class="price"><span>$</span>499</h1>
+                        <h5>2 MEDIUM ACCOUNTS</h5>
+                        <p>1K to 2K followers</p>
                         <p>Phone Verified</p>
-                        <p>Fresh/Aged Accounts</p>
-                        <p>Recovery Added</p>
+                        <p>Aged Accounts</p>
                         <p>Replacement Guranteed</p>
-                        <a href="{{url('/medium_price/50/ Medium Accounts/Bronze/25/15')}}"><button class="btn-3">Order Now</button></a>
+                        <a href="{{url('/medium_price/50/ Medium Accounts/Bronze/525/499')}}"><button class="btn-3">Order Now</button></a>
                     </div>
                 </div>
                 </div>
 
+
+
+            <!-- 
                 <div class="price-card">
                     <div style="background-image: linear-gradient(to bottom, rgb(255, 210, 9), rgb(67, 3, 67));"
                     class="card-body">
