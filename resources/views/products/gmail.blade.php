@@ -45,14 +45,13 @@
                         <div class="right_line"></div>
                         <div class="price-card-desc">
                         <h3>BRONZE</h3>
-                            <h1 class="price"><span>$</span>45</h1>
+                            <h1 class="price"><span>$</span>100</h1>
                             <h5>50 GMAIL ACCOUNTS</h5>
-                            <p>Unique IP Created</p>
                             <p>Phone Verified</p>
-                            <p>Fresh/Aged Accounts</p>
+                            <p>Aged Accounts</p>
                             <p>Recovery Added</p>
                             <p>Replacement Guranteed</p>
-                            <a href="{{url('/gmail_price/50/ Gmail Accounts/Bronze/50/45')}}"><button class="btn-2">Order Now</button></a>
+                            <a href="{{url('/gmail_price/50/ Gmail Accounts/Bronze/120/100')}}"><button class="btn-2">Order Now</button></a>
                         </div>
                     </div>
                 </div>
@@ -65,14 +64,13 @@
                         <div class="right_line"></div>
                         <div class="price-card-desc">
                             <h3>SILVER</h3>
-                            <h1 class="price"><span>$</span>99</h1>
+                            <h1 class="price"><span>$</span>180</h1>
                             <h5>100 GMAIL ACCOUNTS</h5>
-                            <p>Unique IP Created</p>
                             <p>Phone Verified</p>
-                            <p>Fresh/Aged Accounts</p>
+                            <p>Aged Accounts</p>
                             <p>Recovery Added</p> 
                             <p>Replacement Guranteed</p>
-                            <a href="{{url('/gmail_price/100/ Gmail Accounts/Silver/110/99')}}"><button class="btn-3">Order Now</button></a>
+                            <a href="{{url('/gmail_price/100/ Gmail Accounts/Silver/220/180')}}"><button class="btn-3">Order Now</button></a>
                         </div>
                     </div>
                 </div>
@@ -87,14 +85,13 @@
                         <div class="right_line"></div>
                         <div class="price-card-desc">
                             <h3>GOLD</h3>
-                            <h1 class="price"><span>$</span>250</h1>
-                            <h5>500 GMAIL ACCOUNTS</h5>
-                            <p>Unique IP Created</p>
+                            <h1 class="price"><span>$</span>499</h1>
+                            <h5>250 GMAIL ACCOUNTS</h5>
                             <p>Phone Verified</p>
-                            <p>Fresh/Aged Accounts</p>
+                            <p>More than 4 years old</p>
                             <p>Recovery Added</p>
                             <p>Replacement Guranteed</p>
-                            <a href="{{url('/gmail_price/500/ Gmail Accounts/Gold/300/250')}}"><button class="btn-3">Order Now</button></a>
+                            <a href="{{url('/gmail_price/250/ Gmail Accounts/Gold/510/499')}}"><button class="btn-3">Order Now</button></a>
                         </div>
                     </div>
                 </div>
@@ -108,14 +105,13 @@
                     <div class="right_line"></div>
                     <div class="price-card-desc">
                         <h3>PLATINUM</h3>
-                        <h1 class="price"><span>$</span>350</h1>
-                        <h5>1000 GMAIL ACCOUNTS</h5>
-                        <p>Unique IP Created</p>
+                        <h1 class="price"><span>$</span>550</h1>
+                        <h5>200 GMAIL ACCOUNTS</h5>
                         <p>Phone Verified</p>
-                        <p>Fresh/Aged Accounts</p>
+                        <p>2006 to 2014 Years Aged</p>
                         <p>Recovery Added</p>
                         <p>Replacement Guranteed</p>
-                        <a href="{{url('/gmail_price/1000/ Gmail Accounts/Platinum/400/350')}}"><button class="btn-3">Order Now</button></a>
+                        <a href="{{url('/gmail_price/200/ Gmail Accounts/Platinum/590/550')}}"><button class="btn-3">Order Now</button></a>
                     </div>
                 </div>
                 </div>
@@ -129,9 +125,8 @@
                             <h3>OLD/AGED</h3>
                             <h1 class="price"><span>$</span>1<span>/per</span></h1>
                             <h5>3 MONTH OLD GMAIL</h5>
-                            <p>Unique IP Created</p>
                             <p>Phone Verified</p>
-                            <p>Fresh/Aged Accounts</p>
+                            <p>Aged Accounts</p>
                             <p>Recovery Added</p>
                             <p>Replacement Guranteed</p>
                             <a href="{{url('/gmail_price/1/ Old-Aged Gmail Accounts/Per Account/3/1')}}"><button class="btn-3">Order Now</button></a>
@@ -150,9 +145,8 @@
                             <h3>CUSTOM</h3>
                             <h1 class="price"><span>$</span>2<span>/per</span></h1>                                
                             <h5>GMAIL USING CUSTOM NAME & EMAIL</h5>
-                            <p>Unique IP Created</p>
                             <p>Phone Verified</p>
-                            <p>Fresh/Aged Accounts</p>
+                            <p>Aged Accounts</p>
                             <p>Recovery Added</p>
                             <p>Replacement Guranteed</p>
                             <a href="{{url('/gmail_price/1/ Custom Gmail Accounts/Per Account/5/2')}}"><button class="btn-3">Order Now</button></a>

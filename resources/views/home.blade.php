@@ -287,7 +287,7 @@ if (auto) {
               </div>
             </div>
 
-            <div class="card">
+            <!-- <div class="card">
               <div class="card-body">
                 <div class="card-desc">
                   <img src="{{url('resource/images/product logo/coinbase.png')}}" alt="">
@@ -303,7 +303,7 @@ if (auto) {
                   <a href="{{url('/buy_coinbase')}}"><button class="buy"> Buy Now</button></a>
                 </div>
               </div>
-            </div>
+            </div> -->
     
             <div class="card">
               <div class="card-body">
@@ -419,7 +419,7 @@ if (auto) {
             </div>
 
 
-
+          <!-- 
             <div class="card">
               <div class="card-body">
                 <div class="card-desc">
@@ -436,7 +436,7 @@ if (auto) {
                   <a href="{{url('/buy_pinterest')}}"><button class="buy"> Buy Now</button></a>
                 </div>
               </div>
-            </div>
+            </div> -->
 
 
 

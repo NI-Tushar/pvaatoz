@@ -88,9 +88,9 @@
                         <h3>BRONZE</h3>
                             <h1 class="price"><span>$</span>100</h1>
                             <h5>5 DISCORD ACCOUNTS</h5>
-                            <p>Unique IP Created</p>
+                            
                             <p>Phone Verified</p>
-                            <p>Fresh/Aged Accounts</p>
+                            <p>Aged Accounts</p>
                             <p>Recovery Added</p>
                             <p>Replacement Guranteed</p>
                             <a href="{{url('/discord_price/5/ Discord Accounts/Bronze/130/100')}}"><button class="btn-2">Order Now</button></a>
@@ -108,9 +108,8 @@
                             <h3>SILVER</h3>
                             <h1 class="price"><span>$499</span></h1>
                             <h5>25 DISCORD ACCOUNTS</h5>
-                            <p>Unique IP Created</p>
                             <p>Phone Verified</p>
-                            <p>Fresh/Aged Accounts</p>
+                            <p>Aged Accounts</p>
                             <p>Recovery Added</p>
                             <p>Replacement Guranteed</p>
                             <a href="{{url('/discord_price/25/ Discord Accounts/Bronze/520/499')}}"><button class="btn-3">Order Now</button></a>
@@ -130,9 +129,8 @@
                             <h3>GOLD</h3>
                             <h1 class="price"><span>$</span>999</h1>
                             <h5>50 DISCORD ACCOUNTS</h5>
-                            <p>Unique IP Created</p>
                             <p>Phone Verified</p>
-                            <p>Fresh/Aged Accounts</p>
+                            <p>Aged Accounts</p>
                             <p>Recovery Added</p>
                             <p>Replacement Guranteed</p>
                             <a href="{{url('/discord_price/25/ Discord Accounts/Bronze/1200/999')}}"><button class="btn-3">Order Now</button></a>
@@ -149,14 +147,13 @@
                     <div class="right_line"></div>
                     <div class="price-card-desc">
                         <h3>PLATINUM</h3>
-                        <h1 class="price"><span>$</span>1999</h1>
-                        <h5>100 DISCORD ACCOUNTS</h5>
-                        <p>Unique IP Created</p>
+                        <h1 class="price"><span>$</span>250</h1>
+                        <p>1 DISCORD with 2 years subscription</p>
                         <p>Phone Verified</p>
-                        <p>Fresh/Aged Accounts</p>
+                        <p>Aged Accounts</p>
                         <p>Recovery Added</p>
                         <p>Replacement Guranteed</p>
-                        <a href="{{url('/discord_price/100/ Discord Accounts/Bronze/2200/1999')}}"><button class="btn-3">Order Now</button></a>
+                        <a href="{{url('/discord_price/1/ Discord Accounts/Bronze/280/250')}}"><button class="btn-3">Order Now</button></a>
                     </div>
                 </div>
                 </div>
@@ -170,9 +167,9 @@
                             <h3>OLD/AGED</h3>
                             <h1 class="price"><span>$</span>0.50<span>/per</span></h1>
                             <h5>200 DISCORD ACCOUNTS</h5>
-                            <p>Unique IP Created</p>
+                            
                             <p>Phone Verified</p>
-                            <p>Fresh/Aged Accounts</p>
+                            <p>Aged Accounts</p>
                             <p>Recovery Added</p>
                             <p>Replacement Guranteed</p>
                             <a href="{{url('/discord_price/50/ Discord Accounts/Bronze/25/15')}}"><button class="btn-3">Order Now</button></a>
@@ -191,9 +188,9 @@
                             <h3>CUSTOM</h3>
                             <h1 class="price"><span>$</span>0.50<span>/per</span></h1>                                
                             <h5>200 DISCORD ACCOUNTS</h5>
-                            <p>Unique IP Created</p>
+                            
                             <p>Phone Verified</p>
-                            <p>Fresh/Aged Accounts</p>
+                            <p>Aged Accounts</p>
                             <p>Recovery Added</p>
                             <p>Replacement Guranteed</p>
                             <a href="{{url('/discord_price/50/ Discord Accounts/Bronze/25/15')}}"><button class="btn-3">Order Now</button></a>

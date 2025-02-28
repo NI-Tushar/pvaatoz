@@ -87,9 +87,8 @@
                         <h3>BRONZE</h3>
                             <h1 class="price"><span>$</span>375</h1>
                             <h5>25 TWITTER ACCOUNTS</h5>
-                            <p>Unique IP Created</p>
                             <p>Phone Verified</p>
-                            <p>Fresh/Aged Accounts</p>
+                            <p>Aged Accounts</p>
                             <p>Recovery Added</p>
                             <p>Replacement Guranteed</p>
                             <a href="{{url('/twitter_price/25/ Twitter Accounts/Bronze/400/375')}}"><button class="btn-2">Buy Now</button></a>
@@ -107,9 +106,8 @@
                             <h3>SILVER</h3>
                             <h1 class="price"><span>$</span>750</h1>
                             <h5>50 TWITTER ACCOUNTS</h5>
-                            <p>Unique IP Created</p>
                             <p>Phone Verified</p>
-                            <p>Fresh/Aged Accounts</p>
+                            <p>Aged Accounts</p>
                             <p>Recovery Added</p>
                             <p>Replacement Guranteed</p>
                             <a href="{{url('/twitter_price/50/ Twitter Accounts/Bronze/900/750')}}"><button class="btn-3">Buy Now</button></a>
@@ -129,9 +127,9 @@
                             <h3>GOLD</h3>
                             <h1 class="price"><span>$</span>1499</h1>
                             <h5>100 TWITTER ACCOUNTS</h5>
-                            <p>Unique IP Created</p>
+                            
                             <p>Phone Verified</p>
-                            <p>Fresh/Aged Accounts</p>
+                            <p>Aged Accounts</p>
                             <p>Recovery Added</p>
                             <p>Replacement Guranteed</p>
                             <a href="{{url('/twitter_price/100/ Twitter Accounts/Bronze/1800/1499')}}"><button class="btn-3">Buy Now</button></a>
@@ -139,27 +137,27 @@
                     </div>
                 </div>
 
-
-<!--            
                 <div class="price-card">
-                    <div style="background-image: linear-gradient(to bottom, rgb(79, 102, 43), rgb(67, 3, 67));"
-                    class="card-body">
+                  <div style="background-image: linear-gradient(to bottom, rgb(79, 102, 43), rgb(67, 3, 67));"
+                  class="card-body">
                     <div class="left_line"></div>
                     <div class="right_line"></div>
                     <div class="price-card-desc">
                         <h3>PLATINUM</h3>
-                        <h1 class="price"><span>$</span>150</h1>
-                        <h5>200 TWITTER ACCOUNTS</h5>
-                        <p>Unique IP Created</p>
+                        <h1 class="price"><span>$</span>250</h1>
+                        <h5>1 TWITTER ACCOUNTS</h5>
+                        <p>With 10K Followers</p>
                         <p>Phone Verified</p>
-                        <p>Fresh/Aged Accounts</p>
+                        <p>Aged Accounts</p>
                         <p>Recovery Added</p>
                         <p>Replacement Guranteed</p>
-                        <a href="{{url('/twitter_price/100/ Twitter Accounts/Bronze/25/30')}}"><button class="btn-3">Buy Now</button></a>
+                        <a href="{{url('/twitter_price/1/ Twitter Accounts/Bronze/280/250')}}"><button class="btn-3">Buy Now</button></a>
                     </div>
-                </div>
+                  </div>
                 </div>
 
+              
+              <!--            
                 <div class="price-card">
                     <div style="background-image: linear-gradient(to bottom, rgb(255, 210, 9), rgb(67, 3, 67));"
                     class="card-body">
@@ -169,9 +167,9 @@
                             <h3>OLD/AGED</h3>
                             <h1 class="price"><span>$</span>0.50<span>/per</span></h1>
                             <h5>200 TWITTER ACCOUNTS</h5>
-                            <p>Unique IP Created</p>
+                            
                             <p>Phone Verified</p>
-                            <p>Fresh/Aged Accounts</p>
+                            <p>Aged Accounts</p>
                             <p>Recovery Added</p>
                             <p>Replacement Guranteed</p>
                             <a href="{{url('/twitter_price/100/ Twitter Accounts/Bronze/25/30')}}"><button class="btn-3">Buy Now</button></a>
@@ -190,9 +188,9 @@
                             <h3>CUSTOM</h3>
                             <h1 class="price"><span>$</span>0.50<span>/per</span></h1>                                
                             <h5>200 TWITTER ACCOUNTS</h5>
-                            <p>Unique IP Created</p>
+                            
                             <p>Phone Verified</p>
-                            <p>Fresh/Aged Accounts</p>
+                            <p>Aged Accounts</p>
                             <p>Recovery Added</p>
                             <p>Replacement Guranteed</p>
                             <a href="{{url('/twitter_price/100/ Twitter Accounts/Bronze/25/30')}}"><button class="btn-3">Buy Now</button></a>

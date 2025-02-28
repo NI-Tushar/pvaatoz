@@ -80,7 +80,6 @@
             </div>
             <div class="price-cards">
            
-                
                 <div class="price-card">
                     <div style="background-image: linear-gradient(to bottom, rgb(252, 93, 93), rgb(67, 3, 67));" 
                     class="card-body">
@@ -88,14 +87,14 @@
                         <div class="right_line"></div>
                         <div class="price-card-desc">
                         <h3>BRONZE</h3>
-                            <h1 class="price"><span>$</span>10</h1>
-                            <h5>1 Edu Mail Accounts</h5>
-                            <p>Unique IP Created</p>
+                            <h1 class="price"><span>$</span>150</h1>
+                            <h5>10 Edu Mail Accounts</h5>
+                            <p>Gmail & Outlook Login</p>
+                            <p>Different App & Browser</p>
+                            <p>Zoom, Canva & So many <br>Platform Accessibility</p>
                             <p>Phone Verified</p>
-                            <p>Fresh/Aged Accounts</p>
                             <p>Recovery Added</p>
-                            <p>Replacement Guranteed</p>
-                            <a href="{{url('/edumail_price/1/ Edu Mail Accounts/Bronze/15/10')}}"><button class="btn-2">Buy Now</button></a>
+                            <a href="{{url('/edumail_price/10/ Edu Mail Accounts/Bronze/180/150')}}"><button class="btn-2">Buy Now</button></a>
                         </div>
                     </div>
                 </div>
@@ -108,14 +107,14 @@
                         <div class="right_line"></div>
                         <div class="price-card-desc">
                             <h3>SILVER</h3>
-                            <h1 class="price"><span>$</span>99</h1>
-                            <h5>10 Edu Mail Accounts</h5>
+                            <h1 class="price"><span>$</span>265</h1>
+                            <h5>20 Edu Mail Accounts</h5>
                             <p>Unique IP Created</p>
                             <p>Phone Verified</p>
                             <p>Fresh/Aged Accounts</p>
                             <p>Recovery Added</p>
                             <p>Replacement Guranteed</p>
-                            <a href="{{url('/edumail_price/10/ Edu Mail Accounts/Bronze/120/99')}}"><button class="btn-3">Buy Now</button></a>
+                            <a href="{{url('/edumail_price/20/ Edu Mail Accounts/Bronze/300/265')}}"><button class="btn-3">Buy Now</button></a>
                         </div>
                     </div>
                 </div>
@@ -130,14 +129,14 @@
                         <div class="right_line"></div>
                         <div class="price-card-desc">
                             <h3>GOLD</h3>
-                            <h1 class="price"><span>$</span>199</h1>
-                            <h5>20 Edu Mail Accounts</h5>
+                            <h1 class="price"><span>$</span>550</h1>
+                            <h5>50 Edu Mail Accounts</h5>
                             <p>Unique IP Created</p>
                             <p>Phone Verified</p>
                             <p>Fresh/Aged Accounts</p>
                             <p>Recovery Added</p>
                             <p>Replacement Guranteed</p>
-                            <a href="{{url('/edumail_price/20/ Edu Mail Accounts/Bronze/250/199')}}"><button class="btn-3">Buy Now</button></a>
+                            <a href="{{url('/edumail_price/50/ Edu Mail Accounts/Bronze/590/550')}}"><button class="btn-3">Buy Now</button></a>
                         </div>
                     </div>
                 </div>
@@ -151,14 +150,14 @@
                     <div class="right_line"></div>
                     <div class="price-card-desc">
                         <h3>PLATINUM</h3>
-                        <h1 class="price"><span>$</span>499</h1>
-                        <h5>50 Edu Mail Accounts</h5>
+                        <h1 class="price"><span>$</span>999</h1>
+                        <h5>100 Edu Mail Accounts</h5>
                         <p>Unique IP Created</p>
                         <p>Phone Verified</p>
                         <p>Fresh/Aged Accounts</p>
                         <p>Recovery Added</p>
                         <p>Replacement Guranteed</p>
-                        <a href="{{url('/edumail_price/50/ Edu Mail Accounts/Bronze/550/499')}}"><button class="btn-3">Buy Now</button></a>
+                        <a href="{{url('/edumail_price/100/ Edu Mail Accounts/Bronze/1020/999')}}"><button class="btn-3">Buy Now</button></a>
                     </div>
                 </div>
                 </div>

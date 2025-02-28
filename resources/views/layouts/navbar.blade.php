@@ -26,7 +26,7 @@
     <div class="top_bar">
         <ul>
         <li><a target="_blank" href="https://wa.me/+8801304896626?text="><img src="{{url('resource/images/topbar_logo/whatsapp.png')}}" alt=""></a></li>
-        <li><a target="_blank" href="https://t.me/Behan620971"><img src="{{url('resource/images/topbar_logo/telegram.png')}}" alt=""></a></li>
+        <li><a target="_blank" href="https://t.me/jesusplan1"><img src="{{url('resource/images/topbar_logo/telegram.png')}}" alt=""></a></li>
         <li><a target="_blank" href="https://join.skype.com/invite/sK4XVupbQ2gQ"><img src="{{url('resource/images/topbar_logo/skype.png')}}" alt=""></a></li>
         </ul>   
     </div>
@@ -55,7 +55,8 @@
                 <ul class="js-sub-menu sub-menu">
                     <li><a href="{{url('/buy_edumail')}}">Edu Mail</a></li>
                     <li><a href="{{url('/buy_tinder')}}">Tinder</a></li>
-                    <li><a href="{{url('/buy_pinterest')}}">Pinterest</a></li>
+                    <!-- <li><a href="{{url('/buy_pinterest')}}">Pinterest</a></li> -->
+                    <li><a href="{{url('/buy_aliExpress')}}">Ali-Express</a></li>
                     <li><a href="{{url('/buy_quora')}}">Quora</a></li>
                     <li><a href="{{url('/buy_github')}}">GitHub</a></li>
                     <li><a href="{{url('/buy_facebook')}}">Facebook</a></li>
@@ -72,7 +73,7 @@
                 <ul class="js-sub-menu sub-menu">
                     <li><a href="{{url('/buy_ticketmaster')}}">Ticketmaster</a></li>
                     <li><a href="{{url('/buy_medium')}}">Medium Account</a></li>
-                    <li><a href="{{url('/buy_coinbase')}}">Coinbase Account</a></li>
+                    <!-- <li><a href="{{url('/buy_coinbase')}}">Coinbase Account</a></li> -->
                     <li><a href="{{url('/buy_naver')}}">Naver Account</a></li>
                     <li><a href="{{url('/buy_binance')}}">Bainance Account</a></li>
                     <li><a href="{{url('/buy_paypal')}}">PayPal Account</a></li>
