@@ -83,6 +83,7 @@
                     <li><a href="{{url('/buy_ebay')}}">eBay Account</a></li>
                     <li><a href="{{url('/buy_paxful')}}">Paxful Account</a></li>
                     <li><a href="{{url('/buy_airbnb')}}">Airbnb Account</a></li>
+                    <li><a href="{{url('/buy_aliexpress')}}">AliExpress Account</a></li>
                 </ul>
             </li>
 

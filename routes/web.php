@@ -44,6 +44,7 @@ Route::get('/buy_stake',[MyController::class,'buy_stake']);
 Route::get('/buy_ebay',[MyController::class,'buy_ebay']);
 Route::get('/buy_paxful',[MyController::class,'buy_paxful']);
 Route::get('/buy_airbnb',[MyController::class,'buy_airbnb']);
+Route::get('/buy_aliexpress',[MyController::class,'buy_aliexpress']);
 
 Route::get('/about_us',[MyController::class,'about_us']);
 Route::get('/contact_us',[MyController::class,'contact_us']);
@@ -193,6 +194,11 @@ Route::get('paxful_price/{qty}/{name}/{pack}/{xprice}/{price}',function($qty,$na
 Route::get('airbnb_price/{qty}/{name}/{pack}/{xprice}/{price}',function($qty,$name,$pack,$xprice,$price){
     $data = compact('qty','name','pack','xprice','price');
     return view('/products/pro_desc/airbnb_price')->with($data);
+});
+// _______________________________ aliexpress price
+Route::get('aliexpress_price/{qty}/{name}/{pack}/{xprice}/{price}',function($qty,$name,$pack,$xprice,$price){
+    $data = compact('qty','name','pack','xprice','price');
+    return view('/products/pro_desc/aliexpress_price')->with($data);
 });
 
 

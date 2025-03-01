@@ -93,6 +93,9 @@ class mycontroller extends Controller
     public function buy_airbnb(){
         return view('products/airbnb');
     }
+    public function buy_aliexpress(){
+        return view('products/aliexpress');
+    }
 
     public function about_us(){
         return view('about');

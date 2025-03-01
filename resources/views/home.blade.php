@@ -762,6 +762,25 @@ if (auto) {
               </div>
             </div>
 
+            <div class="card">
+              <div class="card-body">
+                <div class="card-desc">
+                  <img src="{{url('resource/images/product logo/aliexpress.png')}}" alt="">
+                  <h3>Buy AliExpress Accounts</h3>
+                  <p>We offer a selection of packages to fit your needs, all at exceptional prices.</p>
+                  <ul>
+                  <p>Fully verified with documents</p>
+                  <p>with payment verified</p>
+                  <p>LLC DL SSN VERIFIED</p>
+                  <p>Phone Verified</p>
+                  <p>Aged Accounts</p>
+                  <p>ecovery Added</p>
+                  <p>Replacement Guranteed</p>
+                  <a href="{{url('/buy_aliexpress')}}"><button class="buy"> Buy Now</button></a>
+                </div>
+              </div>
+            </div>
+
 
 
     
