@@ -774,9 +774,45 @@ if (auto) {
                   <p>LLC DL SSN VERIFIED</p>
                   <p>Phone Verified</p>
                   <p>Aged Accounts</p>
-                  <p>ecovery Added</p>
+                  <p>recovery Added</p>
                   <p>Replacement Guranteed</p>
                   <a href="{{url('/buy_aliexpress')}}"><button class="buy"> Buy Now</button></a>
+                </div>
+              </div>
+            </div>
+
+            <div class="card">
+              <div class="card-body">
+                <div class="card-desc">
+                  <img src="{{url('resource/images/product logo/adds.png')}}" alt="">
+                  <h3>Buy Google Adds Accounts</h3>
+                  <p>We offer a selection of packages to fit your needs, all at exceptional prices.</p>
+                  <ul>
+                  <p>fully verified with documents</p>
+                  <p>with payment verified</p>
+                  <p>Phone Verified</p>
+                  <p>Aged Accounts</p>
+                  <p>recovery Added</p>
+                  <p>Replacement Guranteed</p>
+                  <a href="{{url('/buy_googleAdds')}}"><button class="buy"> Buy Now</button></a>
+                </div>
+              </div>
+            </div>
+
+            <div class="card">
+              <div class="card-body">
+                <div class="card-desc">
+                  <img src="{{url('resource/images/product logo/console.png')}}" alt="">
+                  <h3>Buy Google Console Play Accounts</h3>
+                  <p>We offer a selection of packages to fit your needs, all at exceptional prices.</p>
+                  <ul>
+                  <p>fully verified with documents</p>
+                  <p>with payment verified</p>
+                  <p>Phone Verified</p>
+                  <p>Aged Accounts</p>
+                  <p>recovery Added</p>
+                  <p>Replacement Guranteed</p>
+                  <a href="{{url('/buy_console')}}"><button class="buy"> Buy Now</button></a>
                 </div>
               </div>
             </div>

@@ -96,6 +96,12 @@ class mycontroller extends Controller
     public function buy_aliexpress(){
         return view('products/aliexpress');
     }
+    public function buy_googleAdds(){
+        return view('products/googleAdds');
+    }
+    public function buy_console(){
+        return view('products/console');
+    }
 
     public function about_us(){
         return view('about');

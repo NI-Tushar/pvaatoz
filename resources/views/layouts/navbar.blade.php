@@ -84,6 +84,8 @@
                     <li><a href="{{url('/buy_paxful')}}">Paxful Account</a></li>
                     <li><a href="{{url('/buy_airbnb')}}">Airbnb Account</a></li>
                     <li><a href="{{url('/buy_aliexpress')}}">AliExpress Account</a></li>
+                    <li><a href="{{url('/buy_googleAdds')}}">Google Adds Grants</a></li>
+                    <li><a href="{{url('/buy_console')}}">Google Play Console</a></li>
                 </ul>
             </li>
 

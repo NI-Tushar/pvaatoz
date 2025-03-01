@@ -45,6 +45,8 @@ Route::get('/buy_ebay',[MyController::class,'buy_ebay']);
 Route::get('/buy_paxful',[MyController::class,'buy_paxful']);
 Route::get('/buy_airbnb',[MyController::class,'buy_airbnb']);
 Route::get('/buy_aliexpress',[MyController::class,'buy_aliexpress']);
+Route::get('/buy_googleAdds',[MyController::class,'buy_googleAdds']);
+Route::get('/buy_console',[MyController::class,'buy_console']);
 
 Route::get('/about_us',[MyController::class,'about_us']);
 Route::get('/contact_us',[MyController::class,'contact_us']);
@@ -199,6 +201,16 @@ Route::get('airbnb_price/{qty}/{name}/{pack}/{xprice}/{price}',function($qty,$na
 Route::get('aliexpress_price/{qty}/{name}/{pack}/{xprice}/{price}',function($qty,$name,$pack,$xprice,$price){
     $data = compact('qty','name','pack','xprice','price');
     return view('/products/pro_desc/aliexpress_price')->with($data);
+});
+// _______________________________ google adds price
+Route::get('googleAdds_price/{qty}/{name}/{pack}/{xprice}/{price}',function($qty,$name,$pack,$xprice,$price){
+    $data = compact('qty','name','pack','xprice','price');
+    return view('/products/pro_desc/googleAdds_price')->with($data);
+});
+// _______________________________ console price
+Route::get('console_price/{qty}/{name}/{pack}/{xprice}/{price}',function($qty,$name,$pack,$xprice,$price){
+    $data = compact('qty','name','pack','xprice','price');
+    return view('/products/pro_desc/console_price')->with($data);
 });
 
 
