@@ -817,6 +817,24 @@ if (auto) {
               </div>
             </div>
 
+            <div class="card">
+              <div class="card-body">
+                <div class="card-desc">
+                  <img src="{{url('resource/images/product logo/twich.png')}}" alt="">
+                  <h3>Buy Google Console Play Accounts</h3>
+                  <p>We offer a selection of packages to fit your needs, all at exceptional prices.</p>
+                  <ul>
+                  <p>Live Streaming</p>
+                  <p>Chat & Emotes</p>
+                  <p>Follow & Subscribe</p>
+                  <p>Stream Customization</p>
+                  <p>Moderation Tools</p>
+                  <p>Twitch Mobile & Desktop Apps</p>
+                  <a href="{{url('/buy_twitch')}}"><button class="buy"> Buy Now</button></a>
+                </div>
+              </div>
+            </div>
+
 
 
     

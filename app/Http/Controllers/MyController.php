@@ -102,6 +102,9 @@ class mycontroller extends Controller
     public function buy_console(){
         return view('products/console');
     }
+    public function buy_twitch(){
+        return view('products/twitch');
+    }
 
     public function about_us(){
         return view('about');

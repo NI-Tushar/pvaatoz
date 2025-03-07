@@ -72,8 +72,6 @@ nav .navbar{
 @media (max-width:770px){
   nav{
     top: 0px;
-    overflow-y: auto;
-    overflow-x: auto;
   }
 }
 
@@ -347,10 +345,7 @@ nav .navbar .links li .sub-menu li{
   .links li .sub-menu .more:hover .more-sub-menu{
     display: none;
   }
-  nav .navbar .links li:hover .htmlCss-sub-menu,
-  nav .navbar .links li:hover .js-sub-menu{
-    
-  }
+
 .navbar .nav-links.show1 .links .htmlCss-sub-menu,
   .navbar .nav-links.show3 .links .js-sub-menu,
   .navbar .nav-links.show2 .links .more .more-sub-menu{
@@ -359,8 +354,12 @@ nav .navbar .links li .sub-menu li{
     .navbar .nav-links.show1 .links .htmlcss-arrow,
     .navbar .nav-links.show3 .links .js-arrow{
         transform: rotate(180deg);
-}
+  }
     .navbar .nav-links.show2 .links .more-arrow{
       transform: rotate(90deg);
+    }
+    nav .navbar .nav-links .links{
+      overflow-x: auto !important;
+      height: 100%;
     }
 }

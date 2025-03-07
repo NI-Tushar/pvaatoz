@@ -41,52 +41,53 @@
                     <i class="bx bx-x" ></i>
                 </div>
                 <ul class="links">
-                    <li><a href="{{url('/')}}">Home</a></li>
-                    <li><a href="{{url('/buy_gmail')}}">Gmail</a></li>
-                    <li><a href="{{url('/buy_linkedin')}}">Linkedin</a></li>
-                    <li><a href="{{url('/buy_twitter')}}">Twitter</a></li>
-                    <li><a href="{{url('/buy_snapchat')}}">Snapchat</a></li>
-                    <li><a href="{{url('/buy_wise')}}">Wise</a></li>
+                <li><a href="{{url('/')}}">Home</a></li>
+                <li><a href="{{url('/buy_gmail')}}">Gmail</a></li>
+                <li><a href="{{url('/buy_linkedin')}}">Linkedin</a></li>
+                <li><a href="{{url('/buy_twitter')}}">Twitter</a></li>
+                <li><a href="{{url('/buy_snapchat')}}">Snapchat</a></li>
+                <li><a href="{{url('/buy_wise')}}">Wise</a></li>
 
             
-            <li>
-                <a href="#">Other's Social</a>
-                <i class="bx bxs-chevron-down js-arrow arrow "></i>
-                <ul class="js-sub-menu sub-menu">
-                    <li><a href="{{url('/buy_edumail')}}">Edu Mail</a></li>
-                    <li><a href="{{url('/buy_tinder')}}">Tinder</a></li>
-                    <!-- <li><a href="{{url('/buy_pinterest')}}">Pinterest</a></li> -->
-                    <li><a href="{{url('/buy_quora')}}">Quora</a></li>
-                    <li><a href="{{url('/buy_github')}}">GitHub</a></li>
-                    <li><a href="{{url('/buy_facebook')}}">Facebook</a></li>
-                    <li><a href="{{url('/buy_outlook')}}">Outlook</a></li>
-                    <li><a href="{{url('/buy_voice')}}">Google Voice</a></li>
-                    <li><a href="{{url('/buy_discord')}}">Discord</a></li>
-                    <li><a href="{{url('/buy_review')}}">Review Mail</a></li>
-                </ul>
-            </li>
-            
-            <li>
-                <a href="#">More</a>
-                <i class="bx bxs-chevron-down js-arrow arrow "></i>
-                <ul class="js-sub-menu sub-menu">
-                    <li><a href="{{url('/buy_ticketmaster')}}">Ticketmaster</a></li>
-                    <li><a href="{{url('/buy_medium')}}">Medium Account</a></li>
-                    <!-- <li><a href="{{url('/buy_coinbase')}}">Coinbase Account</a></li> -->
-                    <li><a href="{{url('/buy_naver')}}">Naver Account</a></li>
-                    <li><a href="{{url('/buy_binance')}}">Bainance Account</a></li>
-                    <li><a href="{{url('/buy_paypal')}}">PayPal Account</a></li>
-                    <li><a href="{{url('/buy_payoneer')}}">Payoneer Account</a></li>
-                    <li><a href="{{url('/buy_relay')}}">Relay Business Account</a></li>
-                    <li><a href="{{url('/buy_stake')}}">Stake Account</a></li>
-                    <li><a href="{{url('/buy_ebay')}}">eBay Account</a></li>
-                    <li><a href="{{url('/buy_paxful')}}">Paxful Account</a></li>
-                    <li><a href="{{url('/buy_airbnb')}}">Airbnb Account</a></li>
-                    <li><a href="{{url('/buy_aliexpress')}}">AliExpress Account</a></li>
-                    <li><a href="{{url('/buy_googleAdds')}}">Google Adds Grants</a></li>
-                    <li><a href="{{url('/buy_console')}}">Google Play Console</a></li>
-                </ul>
-            </li>
+                <li>
+                    <a href="#">Other's Social</a>
+                    <i class="bx bxs-chevron-down js-arrow arrow "></i>
+                    <ul class="js-sub-menu sub-menu">
+                        <li><a href="{{url('/buy_edumail')}}">Edu Mail</a></li>
+                        <li><a href="{{url('/buy_tinder')}}">Tinder</a></li>
+                        <!-- <li><a href="{{url('/buy_pinterest')}}">Pinterest</a></li> -->
+                        <li><a href="{{url('/buy_quora')}}">Quora</a></li>
+                        <li><a href="{{url('/buy_github')}}">GitHub</a></li>
+                        <li><a href="{{url('/buy_facebook')}}">Facebook</a></li>
+                        <li><a href="{{url('/buy_outlook')}}">Outlook</a></li>
+                        <li><a href="{{url('/buy_voice')}}">Google Voice</a></li>
+                        <li><a href="{{url('/buy_discord')}}">Discord</a></li>
+                        <li><a href="{{url('/buy_review')}}">Review Mail</a></li>
+                        <li><a href="{{url('/buy_twitch')}}">Twitch Account</a></li>
+                    </ul>
+                </li>
+                
+                <li>
+                    <a href="#">More</a>
+                    <i class="bx bxs-chevron-down js-arrow arrow "></i>
+                    <ul class="js-sub-menu sub-menu">
+                        <li><a href="{{url('/buy_ticketmaster')}}">Ticketmaster</a></li>
+                        <li><a href="{{url('/buy_medium')}}">Medium Account</a></li>
+                        <!-- <li><a href="{{url('/buy_coinbase')}}">Coinbase Account</a></li> -->
+                        <li><a href="{{url('/buy_naver')}}">Naver Account</a></li>
+                        <li><a href="{{url('/buy_binance')}}">Bainance Account</a></li>
+                        <li><a href="{{url('/buy_paypal')}}">PayPal Account</a></li>
+                        <li><a href="{{url('/buy_payoneer')}}">Payoneer Account</a></li>
+                        <li><a href="{{url('/buy_relay')}}">Relay Business Account</a></li>
+                        <li><a href="{{url('/buy_stake')}}">Stake Account</a></li>
+                        <li><a href="{{url('/buy_ebay')}}">eBay Account</a></li>
+                        <li><a href="{{url('/buy_paxful')}}">Paxful Account</a></li>
+                        <li><a href="{{url('/buy_airbnb')}}">Airbnb Account</a></li>
+                        <li><a href="{{url('/buy_aliexpress')}}">AliExpress Account</a></li>
+                        <li><a href="{{url('/buy_googleAdds')}}">Google Adds Grants</a></li>
+                        <li><a href="{{url('/buy_console')}}">Google Play Console</a></li>
+                    </ul>
+                </li>
 
 
                 <li><a href="{{url('/about_us')}}">About Us</a></li>
