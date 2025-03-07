@@ -105,14 +105,14 @@
                         <div class="right_line"></div>
                         <div class="price-card-desc">
                             <h3>SILVER</h3>
-                            <h1 class="price"><span>$</span>138</h1>
+                            <h1 class="price"><span>$</span>150</h1>
                             <h5>1 Linked-in ACCOUNTS</h5>
                             <p>With 500+ Connection</p>
                             <p>US,UK,CANADA IP Created</p>
                             <p>Phone Verified</p>
                             <p>10 Years Aged Accounts</p>
                             <p>Replacement Guranteed</p>
-                            <a href="{{url('/linkedin_price/1/ Linked-in Accounts/Silver/140/138')}}"><button class="btn-3">Buy Now</button></a>
+                            <a href="{{url('/linkedin_price/1/ Linked-in Accounts/Silver/170/150')}}"><button class="btn-3">Buy Now</button></a>
                         </div>
                     </div>
                 </div>
@@ -127,15 +127,15 @@
                         <div class="right_line"></div>
                         <div class="price-card-desc">
                             <h3>GOLD</h3>
-                            <h1 class="price"><span>$</span>150</h1>
+                            <h1 class="price"><span>$</span>170</h1>
                             <h5>1 Verified Linked-in ACCOUNTS</h5>
-                            <p>SSN and DL Included</p>
-                            <p>With 500 to 2k Connection</p>
+                            <p>NID Verified</p>
+                            <p>With 1k to 4k Connection</p>
                             <p>US,UK,CANADA IP Created</p>
                             <p>Phone Verified</p>
                             <p>More than 10 years Aged Accounts</p>
                             <p>Replacement Guranteed</p>
-                            <a href="{{url('/linkedin_price/1/ Linked-in Accounts/Gold/170/150')}}"><button class="btn-3">Buy Now</button></a>
+                            <a href="{{url('/linkedin_price/1/ Linked-in Accounts/Gold/180/170')}}"><button class="btn-3">Buy Now</button></a>
                         </div>
                     </div>
                 </div>

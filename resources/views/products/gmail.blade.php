@@ -122,14 +122,15 @@
                         <div class="left_line"></div>
                         <div class="right_line"></div>
                         <div class="price-card-desc">
-                            <h3>OLD/AGED</h3>
-                            <h1 class="price"><span>$</span>1<span>/per</span></h1>
-                            <h5>3 MONTH OLD GMAIL</h5>
+                            <h3>OLD/AGED Review Mails</h3>
+                            <h1 class="price"><span>$</span>300<span></span></h1>
+                            <h5>100 Review Gmails</h5>
+                            <p>More than 5/6 years old </p>
                             <p>Phone Verified</p>
                             <p>Aged Accounts</p>
                             <p>Recovery Added</p>
                             <p>Replacement Guranteed</p>
-                            <a href="{{url('/gmail_price/1/ Old-Aged Gmail Accounts/Per Account/3/1')}}"><button class="btn-3">Order Now</button></a>
+                            <a href="{{url('/gmail_price/100/ Old-Aged Gmail Accounts/Per Account/350/300')}}"><button class="btn-3">Order Now</button></a>
                         </div>
                     </div>
                 </div>

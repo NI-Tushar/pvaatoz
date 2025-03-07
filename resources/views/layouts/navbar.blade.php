@@ -56,7 +56,6 @@
                     <li><a href="{{url('/buy_edumail')}}">Edu Mail</a></li>
                     <li><a href="{{url('/buy_tinder')}}">Tinder</a></li>
                     <!-- <li><a href="{{url('/buy_pinterest')}}">Pinterest</a></li> -->
-                    <li><a href="{{url('/buy_aliExpress')}}">Ali-Express</a></li>
                     <li><a href="{{url('/buy_quora')}}">Quora</a></li>
                     <li><a href="{{url('/buy_github')}}">GitHub</a></li>
                     <li><a href="{{url('/buy_facebook')}}">Facebook</a></li>

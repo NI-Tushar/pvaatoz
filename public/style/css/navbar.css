@@ -72,6 +72,8 @@ nav .navbar{
 @media (max-width:770px){
   nav{
     top: 0px;
+    overflow-y: auto;
+    overflow-x: auto;
   }
 }
 

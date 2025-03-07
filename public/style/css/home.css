@@ -491,7 +491,7 @@ html {
         left: 0%;
     }
     .product-card .card-body .card-desc ul li{
-        line-height: 2;
+        line-height: 1.5;
     }
     .product-card .card-body .card-desc h3,  
     .product-card  .card-body .card-desc p{
