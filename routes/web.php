@@ -53,6 +53,7 @@ Route::get('/buy_apple',[MyController::class,'buy_apple']);
 Route::get('/buy_nextdoor',[MyController::class,'buy_nextdoor']);
 Route::get('/buy_bereal',[MyController::class,'buy_bereal']);
 Route::get('/buy_crunchyroll',[MyController::class,'buy_crunchyroll']);
+Route::get('/buy_airchat',[MyController::class,'buy_airchat']);
 
 Route::get('/about_us',[MyController::class,'about_us']);
 Route::get('/contact_us',[MyController::class,'contact_us']);
@@ -247,6 +248,11 @@ Route::get('bereal_price/{qty}/{name}/{pack}/{xprice}/{price}',function($qty,$na
 Route::get('crunchyroll_price/{qty}/{name}/{pack}/{xprice}/{price}',function($qty,$name,$pack,$xprice,$price){
     $data = compact('qty','name','pack','xprice','price');
     return view('/products/pro_desc/crunchyroll_price')->with($data);
+});
+// _______________________________ buy_airchat price
+Route::get('airchat_price/{qty}/{name}/{pack}/{xprice}/{price}',function($qty,$name,$pack,$xprice,$price){
+    $data = compact('qty','name','pack','xprice','price');
+    return view('/products/pro_desc/airchat_price')->with($data);
 });
 
 

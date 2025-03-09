@@ -120,6 +120,9 @@ class mycontroller extends Controller
     public function buy_crunchyroll(){
         return view('products/crunchyroll');
     }
+    public function buy_airchat(){
+        return view('products/airchat');
+    }
 
     public function about_us(){
         return view('about');

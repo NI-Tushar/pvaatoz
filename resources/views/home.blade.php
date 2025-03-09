@@ -913,6 +913,22 @@ if (auto) {
               </div>
             </div>
 
+            <div class="card">
+              <div class="card-body">
+                <div class="card-desc">
+                  <img src="{{url('resource/images/product logo/airchat.png')}}" alt="">
+                  <h3>Buy Airchat Accounts</h3>
+                  <h4>1 Airchat Account</h4>
+                  <p>Safe and secure</p>
+                  <p>Fully Verified</p>
+                  <p>Fresh/Aged Accounts</p>
+                  <p>Recovery Added</p>
+                  <p>Replacement Guranteed</p>
+                  <a href="{{url('/buy_airchat')}}"><button class="buy"> Buy Now</button></a>
+                </div>
+              </div>
+            </div>
+
 
 
 
