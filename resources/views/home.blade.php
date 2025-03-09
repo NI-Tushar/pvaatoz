@@ -835,6 +835,22 @@ if (auto) {
               </div>
             </div>
 
+            <div class="card">
+              <div class="card-body">
+                <div class="card-desc">
+                  <img src="{{url('resource/images/product logo/taboola.png')}}" alt="">
+                  <h3>Buy Taboola Accounts</h3>
+                  <p>WNo need KYC for this card</p>
+                  <p>with any name and address on Taboola</p>
+                  <p>only verification as well as Paying Taboola Bills.</p>
+                  <p>Crypto loading</p>
+                  <p>Reloadable cards</p>
+                  <p>Completely Anonymous</p>
+                  <a href="{{url('/buy_taboola')}}"><button class="buy"> Buy Now</button></a>
+                </div>
+              </div>
+            </div>
+
 
 
     
