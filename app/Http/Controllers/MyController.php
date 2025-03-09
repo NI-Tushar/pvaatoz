@@ -123,6 +123,9 @@ class mycontroller extends Controller
     public function buy_airchat(){
         return view('products/airchat');
     }
+    public function buy_supernova(){
+        return view('products/supernova');
+    }
 
     public function about_us(){
         return view('about');

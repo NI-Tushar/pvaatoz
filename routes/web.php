@@ -54,6 +54,7 @@ Route::get('/buy_nextdoor',[MyController::class,'buy_nextdoor']);
 Route::get('/buy_bereal',[MyController::class,'buy_bereal']);
 Route::get('/buy_crunchyroll',[MyController::class,'buy_crunchyroll']);
 Route::get('/buy_airchat',[MyController::class,'buy_airchat']);
+Route::get('/buy_supernova',[MyController::class,'buy_supernova']);
 
 Route::get('/about_us',[MyController::class,'about_us']);
 Route::get('/contact_us',[MyController::class,'contact_us']);
@@ -253,6 +254,11 @@ Route::get('crunchyroll_price/{qty}/{name}/{pack}/{xprice}/{price}',function($qt
 Route::get('airchat_price/{qty}/{name}/{pack}/{xprice}/{price}',function($qty,$name,$pack,$xprice,$price){
     $data = compact('qty','name','pack','xprice','price');
     return view('/products/pro_desc/airchat_price')->with($data);
+});
+// _______________________________ buy_supernova price
+Route::get('supernova_price/{qty}/{name}/{pack}/{xprice}/{price}',function($qty,$name,$pack,$xprice,$price){
+    $data = compact('qty','name','pack','xprice','price');
+    return view('/products/pro_desc/supernova_price')->with($data);
 });
 
 
