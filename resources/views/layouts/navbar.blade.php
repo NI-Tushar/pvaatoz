@@ -65,6 +65,7 @@
                         <li><a href="{{url('/buy_review')}}">Review Mail</a></li>
                         <li><a href="{{url('/buy_twitch')}}">Twitch Account</a></li>
                         <li><a href="{{url('/buy_taboola')}}">Taboola Account</a></li>
+                        <li><a href="{{url('/buy_apple')}}">Apple Developer</a></li>
                     </ul>
                 </li>
                 

@@ -49,6 +49,7 @@ Route::get('/buy_googleAdds',[MyController::class,'buy_googleAdds']);
 Route::get('/buy_console',[MyController::class,'buy_console']);
 Route::get('/buy_twitch',[MyController::class,'buy_twitch']);
 Route::get('/buy_taboola',[MyController::class,'buy_taboola']);
+Route::get('/buy_apple',[MyController::class,'buy_apple']);
 
 Route::get('/about_us',[MyController::class,'about_us']);
 Route::get('/contact_us',[MyController::class,'contact_us']);
@@ -219,10 +220,15 @@ Route::get('twitch_price/{qty}/{name}/{pack}/{xprice}/{price}',function($qty,$na
     $data = compact('qty','name','pack','xprice','price');
     return view('/products/pro_desc/twitch_price')->with($data);
 });
-// _______________________________ twitch price
+// _______________________________ taboola price
 Route::get('taboola_price/{qty}/{name}/{pack}/{xprice}/{price}',function($qty,$name,$pack,$xprice,$price){
     $data = compact('qty','name','pack','xprice','price');
     return view('/products/pro_desc/taboola_price')->with($data);
+});
+// _______________________________ apple developer price
+Route::get('apple_price/{qty}/{name}/{pack}/{xprice}/{price}',function($qty,$name,$pack,$xprice,$price){
+    $data = compact('qty','name','pack','xprice','price');
+    return view('/products/pro_desc/apple_price')->with($data);
 });
 
 

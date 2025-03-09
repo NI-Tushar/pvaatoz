@@ -851,6 +851,22 @@ if (auto) {
               </div>
             </div>
 
+            <div class="card">
+              <div class="card-body">
+                <div class="card-desc">
+                  <img src="{{url('resource/images/product logo/apple.png')}}" alt="">
+                  <h3>Buy Apple Developer Accounts</h3>
+                  <h4>1 Apple Developer Account</h4>
+                  <p>Safe and secure</p>
+                  <p>Fully Verified</p>
+                  <p>Fresh/Aged Accounts</p>
+                  <p>Recovery Added</p>
+                  <p>Replacement Guranteed</p>
+                  <a href="{{url('/buy_apple')}}"><button class="buy"> Buy Now</button></a>
+                </div>
+              </div>
+            </div>
+
 
 
     

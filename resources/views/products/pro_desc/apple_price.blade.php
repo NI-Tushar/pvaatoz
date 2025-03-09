@@ -2,7 +2,7 @@
 @extends('layouts.middle')
 @push('title')
 <link rel="stylesheet" href="{{url('style/css/product_desc.css')}}">
-<title>Buy Varified Taboola ads Account | PVAATOZ</title>
+<title>Buy Varified Airbnb Account | PVAATOZ</title>
 @endpush
 
 
@@ -11,18 +11,18 @@
 @section('middle_section')
 <style>
   .product-image {
-    background: linear-gradient(to bottom, rgb(0, 140, 221) 0%, #2c1011  100%);
+    background: linear-gradient(to bottom, #FF595D 0%, #2c1011  100%);
   }
   .footer >a> button {
-    background: linear-gradient(to bottom,rgb(0, 140, 221) 0%, #2c1011  100%);
+    background: linear-gradient(to bottom, #FF595D 0%, #2c1011  100%);
     box-shadow: 0 10px 30px 0 rgba(2, 45, 53, 0.7);
   }
   .footer >a> button:hover {
-    background: linear-gradient(to bottom, #2c1011 0%, rgb(0, 140, 221) 100%);
+    background: linear-gradient(to bottom, #2c1011 0%, #FF595D 100%);
   }
   .product-details .price .current,
   .product-details .rate a.active, .product-details .rate a:hover{
-    color:rgb(0, 140, 221);
+    color: #FF595D;
   }
 </style>
 
@@ -33,7 +33,7 @@
     <!--   https://www.jerecho.com/codepen/nike-product-page/ -->
     <div class="product-image">
       <!-- <img src="http://co0kie.github.io/codepen/nike-product-page/nikeLogo.png" alt="" class="product-logo"> -->
-      <img  src="{{url('resource/images/product_poster/taboola_poster.png')}}" alt="" class="product-pic">
+      <img  src="{{url('resource/images/product_poster/airbnb_poster.png')}}" alt="" class="product-pic">
 
     </div>
     <?php
@@ -59,7 +59,7 @@
     </header>
     <article>
       <h5>Description</h5>
-      <p>Taboola ads accounts come with login details sent directly to your email. 
+      <p>Airbnb accounts come with login details sent directly to your email. 
         Enjoy a 3-day replacement guarantee and 24/7 support for a smooth and hassle-free experience.</p>
     </article>
 
