@@ -100,7 +100,7 @@
                             <p>Fresh/Aged Accounts</p>
                             <p>Recovery Added</p>
                             <p>Replacement Guranteed</p>
-                            <a href="{{url('/supernova_price/1/ Supernova Account/Basic/270/250')}}"><button class="btn-3">Order Now</button></a>
+                            <a href="{{url('/supernova_price/1/supernova Account/Basic/270/250')}}"><button class="btn-3">Order Now</button></a>
                         </div>
                     </div>
                 </div>

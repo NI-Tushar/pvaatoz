@@ -11,14 +11,14 @@
 @section('middle_section')
 <style>
   .product-image {
-    background: linear-gradient(to bottom, #FF595D 0%, #2c1011  100%);
+    background: linear-gradient(to bottom,rgb(206, 206, 206) 0%,rgb(0, 0, 0)  100%);
   }
   .footer >a> button {
-    background: linear-gradient(to bottom, #FF595D 0%, #2c1011  100%);
+    background: linear-gradient(to bottom,rgb(181, 181, 181) 0%,rgb(0, 0, 0)  100%);
     box-shadow: 0 10px 30px 0 rgba(2, 45, 53, 0.7);
   }
   .footer >a> button:hover {
-    background: linear-gradient(to bottom, #2c1011 0%, #FF595D 100%);
+    background: linear-gradient(to bottom, #2c1011 0%,rgb(150, 149, 149) 100%);
   }
   .product-details .price .current,
   .product-details .rate a.active, .product-details .rate a:hover{
@@ -33,7 +33,7 @@
     <!--   https://www.jerecho.com/codepen/nike-product-page/ -->
     <div class="product-image">
       <!-- <img src="http://co0kie.github.io/codepen/nike-product-page/nikeLogo.png" alt="" class="product-logo"> -->
-      <img  src="{{url('resource/images/product_poster/airbnb_poster.png')}}" alt="" class="product-pic">
+      <img  src="{{url('resource/images/product_poster/apple_poster.png')}}" alt="" class="product-pic">
 
     </div>
     <?php
