@@ -51,6 +51,7 @@ Route::get('/buy_twitch',[MyController::class,'buy_twitch']);
 Route::get('/buy_taboola',[MyController::class,'buy_taboola']);
 Route::get('/buy_apple',[MyController::class,'buy_apple']);
 Route::get('/buy_nextdoor',[MyController::class,'buy_nextdoor']);
+Route::get('/buy_bereal',[MyController::class,'buy_bereal']);
 
 Route::get('/about_us',[MyController::class,'about_us']);
 Route::get('/contact_us',[MyController::class,'contact_us']);
@@ -235,6 +236,11 @@ Route::get('apple_price/{qty}/{name}/{pack}/{xprice}/{price}',function($qty,$nam
 Route::get('nextdoor_price/{qty}/{name}/{pack}/{xprice}/{price}',function($qty,$name,$pack,$xprice,$price){
     $data = compact('qty','name','pack','xprice','price');
     return view('/products/pro_desc/nextdoor_price')->with($data);
+});
+// _______________________________ buy_bereal price
+Route::get('bereal_price/{qty}/{name}/{pack}/{xprice}/{price}',function($qty,$name,$pack,$xprice,$price){
+    $data = compact('qty','name','pack','xprice','price');
+    return view('/products/pro_desc/bereal_price')->with($data);
 });
 
 

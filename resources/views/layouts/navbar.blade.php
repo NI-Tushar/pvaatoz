@@ -67,6 +67,7 @@
                         <li><a href="{{url('/buy_taboola')}}">Taboola Account</a></li>
                         <li><a href="{{url('/buy_apple')}}">Apple Developer</a></li>
                         <li><a href="{{url('/buy_nextdoor')}}">Nextdoor Account</a></li>
+                        <li><a href="{{url('/buy_bereal')}}">Bereal Account</a></li>
                     </ul>
                 </li>
                 
