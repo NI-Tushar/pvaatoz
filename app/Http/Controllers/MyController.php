@@ -111,6 +111,9 @@ class mycontroller extends Controller
     public function buy_apple(){
         return view('products/apple');
     }
+    public function buy_nextdoor(){
+        return view('products/nextdoor');
+    }
 
     public function about_us(){
         return view('about');

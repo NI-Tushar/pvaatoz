@@ -867,6 +867,20 @@ if (auto) {
               </div>
             </div>
 
+            <div class="card">
+              <div class="card-body">
+                <div class="card-desc">
+                  <img src="{{url('resource/images/product logo/nextdoor.png')}}" alt="">
+                  <h3>Buy Nextdoor Accounts</h3>
+                  <p>100% Verified Account</p>
+                  <p>Fresh/Aged Accounts</p>
+                  <p>Recovery Added</p>
+                  <p>Replacement Guranteed</p>
+                  <a href="{{url('/buy_nextdoor')}}"><button class="buy"> Buy Now</button></a>
+                </div>
+              </div>
+            </div>
+
 
 
     
