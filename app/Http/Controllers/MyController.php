@@ -117,6 +117,9 @@ class mycontroller extends Controller
     public function buy_bereal(){
         return view('products/bereal');
     }
+    public function buy_crunchyroll(){
+        return view('products/crunchyroll');
+    }
 
     public function about_us(){
         return view('about');
