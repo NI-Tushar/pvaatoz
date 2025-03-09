@@ -126,6 +126,9 @@ class mycontroller extends Controller
     public function buy_supernova(){
         return view('products/supernova');
     }
+    public function buy_trustpilot(){
+        return view('products/trustpilot');
+    }
 
     public function about_us(){
         return view('about');

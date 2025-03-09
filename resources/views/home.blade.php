@@ -946,6 +946,21 @@ if (auto) {
               </div>
             </div>
 
+            <div class="card">
+              <div class="card-body">
+                <div class="card-desc">
+                  <img src="{{url('resource/images/product logo/trustpilot.png')}}" alt="">
+                  <h3>Buy Trustpilot Reviews</h3>
+                  <p>Safe and secure</p>
+                  <p>Fully Verified</p>
+                  <p>Fresh/Aged Accounts</p>
+                  <p>Recovery Added</p>
+                  <p>Replacement Guranteed</p>
+                  <a href="{{url('/buy_trustpilot')}}"><button class="buy"> Buy Now</button></a>
+                </div>
+              </div>
+            </div>
+
 
     
           </div>

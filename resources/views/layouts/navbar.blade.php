@@ -71,6 +71,7 @@
                         <li><a href="{{url('/buy_crunchyroll')}}">Crunchyroll Account</a></li>
                         <li><a href="{{url('/buy_airchat')}}">Airchat Account</a></li>
                         <li><a href="{{url('/buy_supernova')}}">Supernova Account</a></li>
+                        <li><a href="{{url('/buy_trustpilot')}}">Trustpilot Reviews</a></li>
                     </ul>
                 </li>
                 
